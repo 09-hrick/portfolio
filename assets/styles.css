@@ -93,9 +93,10 @@ margin-top: 24px;
 font-size: 25px;
 }
 .about-me{
-  background-image: url(./about-banner.jpg);
+ background-image: url(./about-banner.jpg);
   background-size: cover;
-  font-size: 50px;
+  /* font-size: 50px; */
+  font-size:3vw;
   padding: 20px;
   height: 1000px;
   padding-left: 50%;
